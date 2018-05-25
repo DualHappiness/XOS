@@ -1,0 +1,134 @@
+[
+  
+   
+      {
+        "title"    : "第一个小麻烦",
+        "category" : "",
+        "tags"     : " 废话, jekyll",
+        "url"      : "/2018/05/24/a-little-trouble.html",
+        "date"     : "May 24, 2018",
+        "excerpt"  : "<p>(ಥ _ ಥ)\n<!-- more --></p>\n\n<blockquote>\n  <p>GitHub上搭blog其实本来还挺方便的，其实随便用来谢谢废话也是够用的，但强迫症他不乐意啊。</p>\n\n  <p>“这页面这么朴素，不符合你身份啊。”</p>\n\n  <p>“我身份更朴素啊。”</p>\n\n  <p>“那不符合我身份。”</p>\n\n  <p>“……”</p>\n\n  <p>好吧，那也就只能折腾了。</p>\n</blockquote>\n\n<p>那么从哪里开始呢，既然GitHub官网...",
+        "content"  : "<p>(ಥ _ ಥ)\n<!-- more --></p>\n\n<blockquote>\n  <p>GitHub上搭blog其实本来还挺方便的，其实随便用来谢谢废话也是够用的，但强迫症他不乐意啊。</p>\n\n  <p>“这页面这么朴素，不符合你身份啊。”</p>\n\n  <p>“我身份更朴素啊。”</p>\n\n  <p>“那不符合我身份。”</p>\n\n  <p>“……”</p>\n\n  <p>好吧，那也就只能折腾了。</p>\n</blockquote>\n\n<p>那么从哪里开始呢，既然GitHub官网上推荐使用Jekyll，那就它了也别挑了。</p>\n\n<p>一通安装之后，都还蛮顺利的。默认的theme也可以正常使用了。然后我就手贱看了一下别的主题，“欸好像还蛮好看的，快看看怎么换“ ”只要换几行，然后install一下就行了“……不出所料的换挂了━┳━　━┳━。</p>\n\n<p>明明不同theme的目录结构都不一样，install本身也只是安装依赖的gem，根本不会帮你补齐缺的文件，官网教材的描述偏偏说的好像只要换了Gemfile和_config.yml就可以无缝切换了一样。都是坑啦！</p>\n\n<p>……</p>\n\n<p><img src=\"/assets/img/meme/one hour later.jpg\" alt=\"\" /></p>\n\n<p>最终在经过”这个没有tag啊“ ”评论怎么弄啊“ ……之后，干脆从网上copy了一个过来。</p>\n\n<p>啊！神清气爽！ 又浪费了一个下午…( ＿ ＿)ノ｜</p>\n\n<p><strong>果然强迫症得治</strong></p>\n"
+      } ,
+   
+      {
+        "title"    : "第一篇博客？ 大概吧",
+        "category" : "",
+        "tags"     : " 废话",
+        "url"      : "/2018/05/23/hello-world.html",
+        "date"     : "May 23, 2018",
+        "excerpt"  : "<p>也不知道是太闲了还是太焦虑了，反正心血来潮想开个博客说说话。由于没有什么干货，又偏偏是个话痨，所以以后文章应该都是会有很多的废话，然后重点都加粗这种形式。博客的名字现在暂定为【废话集】，如果哪天能咸鱼翻身干货输出持续爆表也许会有换名字的那天。\n<!-- more --></p>\n\n<p>其实很早以前就有开个博客的想法，当时通过很多技术博客学了很多的东西，但一直都没有做出第一步，一方面是觉得自己技术不到位，写啥呢别误导别人就不错了，另一方面也是太懒，懒得打理懒得动手。最近可能真的躺的时...",
+        "content"  : "<p>也不知道是太闲了还是太焦虑了，反正心血来潮想开个博客说说话。由于没有什么干货，又偏偏是个话痨，所以以后文章应该都是会有很多的废话，然后重点都加粗这种形式。博客的名字现在暂定为【废话集】，如果哪天能咸鱼翻身干货输出持续爆表也许会有换名字的那天。\n<!-- more --></p>\n\n<p>其实很早以前就有开个博客的想法，当时通过很多技术博客学了很多的东西，但一直都没有做出第一步，一方面是觉得自己技术不到位，写啥呢别误导别人就不错了，另一方面也是太懒，懒得打理懒得动手。最近可能真的躺的时间有点长了，躺不住了，所有又折腾了起来。转了一圈，看教程又是域名又是虚拟主机的，好像好事Github最省事，那就再这里写好了（果然还是懒得很  ：） ）。但既然说要写怎么也得保持个三两天的劲头才是，听说说废话也能卖个千字两元，说不定一天写个几万字饭钱就有了呢（并不）。</p>\n\n<p>好了上面罗嗦了这么多下面也该说说正事了，虽然并没有人关心（此处应有狗头）</p>\n\n<h3 id=\"未来写些什么\">未来写些什么</h3>\n\n<p>现在暂时的初期计划应该是会先更新图形学学习的一些笔记，当初回家就说要学，现在还是在开始的路上😂， 打算这段时间认真的学一下并记录一下所学所想（希望不会是三天打鱼两天筛网）。在图形学学习的同时可能会有写些跟游戏相关的心得、游戏引擎的学习相关的东西。总之，希望这篇能成为一个全新生活的开始。</p>\n"
+      } 
+   ,
+   
+     {
+       
+          "title"    : "Ninja",
+          "category" : "",
+          "tags"     : " Lorem",
+          "url"      : "/portfolio/ninja",
+          "date"     : "April 8, 2014",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Creative",
+          "category" : "",
+          "tags"     : " Ipsum",
+          "url"      : "/portfolio/safe",
+          "date"     : "August 16, 2014",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Circus",
+          "category" : "",
+          "tags"     : " Ipsum",
+          "url"      : "/portfolio/circus",
+          "date"     : "September 1, 2014",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Tower of Hanoi",
+          "category" : "",
+          "tags"     : " ",
+          "url"      : "/portfolio/hanoi",
+          "date"     : "September 1, 2014",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Tic tac toe",
+          "category" : "",
+          "tags"     : " ",
+          "url"      : "/portfolio/tictactoe",
+          "date"     : "September 1, 2014",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Cake",
+          "category" : "",
+          "tags"     : " Lorem, Ipsum, Portfolio",
+          "url"      : "/portfolio/cake",
+          "date"     : "September 27, 2015",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Jekyll",
+          "category" : "",
+          "tags"     : " ",
+          "url"      : "/portfolio/jekyllblog",
+          "date"     : "May 26, 2017",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Lorem Ipsum",
+          "category" : "",
+          "tags"     : " ",
+          "url"      : "/portfolio/submarine",
+          "date"     : "September 3, 2017",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } ,
+   
+     {
+       
+          "title"    : "Github",
+          "category" : "",
+          "tags"     : " Lorem, Portfolio",
+          "url"      : "/portfolio/gitlecture",
+          "date"     : "October 20, 2017",
+          "excerpt"  : null,
+          "content"  : null
+       
+     } 
+   
+  
+]

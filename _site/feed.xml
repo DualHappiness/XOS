@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>废话集</title>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+        <link>http://localhost:4000/</link>
+        <description></description>
+        <pubDate>Thu, 24 May 2018 14:37:32 +0800</pubDate>
+        
+        <item>
+            <title>第一个小麻烦</title>
+            <link>/2018/05/24/a-little-trouble.html</link>
+            <guid isPermaLink="true">/2018/05/24/a-little-trouble.html</guid>
+            <description>&lt;p&gt;(ಥ _ ಥ)
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GitHub上搭blog其实本来还挺方便的，其实随便用来谢谢废话也是够用的，但强迫症他不乐意啊。&lt;/p&gt;
+
+  &lt;p&gt;“这页面这么朴素，不符合你身份啊。”&lt;/p&gt;
+
+  &lt;p&gt;“我身份更朴素啊。”&lt;/p&gt;
+
+  &lt;p&gt;“那不符合我身份。”&lt;/p&gt;
+
+  &lt;p&gt;“……”&lt;/p&gt;
+
+  &lt;p&gt;好吧，那也就只能折腾了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;那么从哪里开始呢，既然GitHub官网上推荐使用Jekyll，那就它了也别挑了。&lt;/p&gt;
+
+&lt;p&gt;一通安装之后，都还蛮顺利的。默认的theme也可以正常使用了。然后我就手贱看了一下别的主题，“欸好像还蛮好看的，快看看怎么换“ ”只要换几行，然后install一下就行了“……不出所料的换挂了━┳━　━┳━。&lt;/p&gt;
+
+&lt;p&gt;明明不同theme的目录结构都不一样，install本身也只是安装依赖的gem，根本不会帮你补齐缺的文件，官网教材的描述偏偏说的好像只要换了Gemfile和_config.yml就可以无缝切换了一样。都是坑啦！&lt;/p&gt;
+
+&lt;p&gt;……&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/meme/one hour later.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最终在经过”这个没有tag啊“ ”评论怎么弄啊“ ……之后，干脆从网上copy了一个过来。&lt;/p&gt;
+
+&lt;p&gt;啊！神清气爽！ 又浪费了一个下午…( ＿ ＿)ノ｜&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;果然强迫症得治&lt;/strong&gt;&lt;/p&gt;
+</description>
+            <pubDate>Thu, 24 May 2018 00:00:00 +0800</pubDate>
+        </item>
+        
+        <item>
+            <title>第一篇博客？ 大概吧</title>
+            <link>/2018/05/23/hello-world.html</link>
+            <guid isPermaLink="true">/2018/05/23/hello-world.html</guid>
+            <description>&lt;p&gt;也不知道是太闲了还是太焦虑了，反正心血来潮想开个博客说说话。由于没有什么干货，又偏偏是个话痨，所以以后文章应该都是会有很多的废话，然后重点都加粗这种形式。博客的名字现在暂定为【废话集】，如果哪天能咸鱼翻身干货输出持续爆表也许会有换名字的那天。
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;其实很早以前就有开个博客的想法，当时通过很多技术博客学了很多的东西，但一直都没有做出第一步，一方面是觉得自己技术不到位，写啥呢别误导别人就不错了，另一方面也是太懒，懒得打理懒得动手。最近可能真的躺的时间有点长了，躺不住了，所有又折腾了起来。转了一圈，看教程又是域名又是虚拟主机的，好像好事Github最省事，那就再这里写好了（果然还是懒得很  ：） ）。但既然说要写怎么也得保持个三两天的劲头才是，听说说废话也能卖个千字两元，说不定一天写个几万字饭钱就有了呢（并不）。&lt;/p&gt;
+
+&lt;p&gt;好了上面罗嗦了这么多下面也该说说正事了，虽然并没有人关心（此处应有狗头）&lt;/p&gt;
+
+&lt;h3 id=&quot;未来写些什么&quot;&gt;未来写些什么&lt;/h3&gt;
+
+&lt;p&gt;现在暂时的初期计划应该是会先更新图形学学习的一些笔记，当初回家就说要学，现在还是在开始的路上😂， 打算这段时间认真的学一下并记录一下所学所想（希望不会是三天打鱼两天筛网）。在图形学学习的同时可能会有写些跟游戏相关的心得、游戏引擎的学习相关的东西。总之，希望这篇能成为一个全新生活的开始。&lt;/p&gt;
+</description>
+            <pubDate>Wed, 23 May 2018 00:00:00 +0800</pubDate>
+        </item>
+        
+    </channel>
+</rss>
